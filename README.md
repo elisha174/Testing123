@@ -11,7 +11,7 @@
   [Questions](#h2-Questions)<br>
 
   ## Installation <br>
-  Load the project code from Weather Channel GitHub repository. Once on your local drive on your terminal, install inquirer with the following command: npm install inquirer. Then run the code with: node index.js. Then fill in the questions and Parking Lot app will run. <br><br>
+  Load the project code from Testing123 GitHub repository. Once on your local drive on your terminal, install inquirer with the following command: npm install inquirer. Then run the code with: node index.js. Then fill in the questions and Parking Lot app will run. <br><br>
   ## Usage <br>
   You can use this README to help with your GitHub describe and identify your code. <br><br>
   ## Contributing <br>
